@@ -1,0 +1,5 @@
+pandas>=2.0
+ipython-sql>=0.5
+prettytable>=3.0
+sqlalchemy>=2.0
+jupyter>=1.0
