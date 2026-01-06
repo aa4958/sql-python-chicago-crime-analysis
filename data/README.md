@@ -1,14 +1,9 @@
 # Data README
 
-This directory is intentionally left empty in this repository to keep the repo lightweight.
+This directory contains the CSV datasets used in this project:
 
-To reproduce the analysis:
+- ChicagoCensusData.csv
+- ChicagoCrimeData.csv
+- ChicagoPublicSchools.csv
 
-1. Download the following CSV datasets from official sources:
-   - ChicagoCensusData.csv
-   - ChicagoCrimeData.csv
-   - ChicagoPublicSchools.csv
-
-2. Place them into the `data/` directory at the project root.
-
-These datasets are required for loading into the SQLite database in the accompanying notebook and script.
+These files are loaded into the SQLite database in the accompanying notebook and script for analysis.
