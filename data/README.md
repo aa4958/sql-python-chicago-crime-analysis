@@ -2,8 +2,7 @@
 
 This directory contains the CSV datasets used in this project:
 
-- ChicagoCensusData.csv
+- - ChicagoCensusData.csv
 - ChicagoCrimeData.csv
 - ChicagoPublicSchools.csv
-
-These files are loaded into the SQLite database in the accompanying notebook and script for analysis.
+- ChicagoPublicSchools_ProgressReport_2011-2012.csv
