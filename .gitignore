@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Generated outputs (database and others)
+outputs/
+*.db
